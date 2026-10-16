@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [HERE](https://radoslawlagan.github.io/Loopstudios-landing-page/)
+- Live Site URL: [HERE](https://radoslawbilke.github.io/Loopstudios-landing-page/)
 
 ## My process
 
